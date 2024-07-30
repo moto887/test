@@ -9,3 +9,5 @@ mytest
 | 2 | 珍珍员工出勤率  | 3 |
 | 3 | 爱爱员工出勤率  | 2 |
 | 4 | <audio controls src="./assets/voices/a.wav"></audio> | 1 |
+
+<audio controls src="./assets/voices/a.wav"></audio> 
