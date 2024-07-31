@@ -10,12 +10,10 @@ mytest
 | 3 | 爱爱员工出勤率  | 2 |
 | 4 | dddd| 1 |
 
-<audio controls>
-  <source src="./assets/voices/a.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[hexo-tag-aplayer](https://github.com/grzhan/hexo-tag-aplayer)
+{% aplayer "乐音" "Me" "./assets/voices/a.wav"  "./assets/images/speaker.wav" "autoplay=optional" %}
 
-[![Play Audio](https://img.shields.io/badge/Play-Audio-blue)](./assets/voices/a.wav) 
+
 
 [听这个](./assets/voices/a.wav)
 
