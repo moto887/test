@@ -10,10 +10,9 @@ mytest
 | 3 | 爱爱员工出勤率  | 2 |
 | 4 | dddd| 1 |
 
-[hexo-tag-aplayer](https://github.com/grzhan/hexo-tag-aplayer)
-{% aplayer "乐音" "Me" "./assets/voices/a.wav"  "./assets/images/speaker.wav" "autoplay=optional" %}
 
 
+[听mp3](./assets/voices/a.mp3)
 
 [听这个](./assets/voices/a.wav)
 
